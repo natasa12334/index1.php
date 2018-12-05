@@ -1,0 +1,1 @@
+SELECT * FROM natasa_db.index_php;
