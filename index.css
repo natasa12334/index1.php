@@ -1,0 +1,10 @@
+body {
+	margin:10;
+	padding:10;
+   
+}
+
+tr.even {
+	text-align:center;
+
+}
